@@ -6,3 +6,5 @@ centos7     --> https://git.io/tanocentos7
 centos7lite --> https://git.io/tanocentos7lite
 
 centos8     --> https://git.io/tanocentos8
+
+rocky 8     --> https://git.io/tanorocky8
