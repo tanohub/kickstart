@@ -1,5 +1,5 @@
 # kickstart
-Just some basic Kickstart files
+Just some basic Kickstart files :
 
 centos7     --> https://git.io/tanocentos7
 
